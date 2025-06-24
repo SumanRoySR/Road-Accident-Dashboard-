@@ -29,12 +29,12 @@
 - 📉 **Year-over-year** decrease in casualties and fatal incidents signals possible effectiveness of policy or safety interventions.
 
 ## 🎯 Potential Business Actions Based on Insights
-- Upgrade single carriageways to reduce accident concentration.
-- Improve traffic control and pedestrian safety in urban areas.
-- Launch targeted safety campaigns for high-risk vehicle types like cars.
-- Address daytime accidents with distracted driving prevention measures.
-- Enhance road safety during adverse weather through alerts and infrastructure.
-- Allocate resources to high-risk zones identified through geospatial data.
+- Upgrade **single carriageways** to reduce accident concentration.
+- Improve **traffic control** and **pedestrian** safety in urban areas.
+- Launch targeted **safety campaigns** for high-risk vehicle types like cars.
+- Address **daytime** accidents with distracted driving prevention measures.
+- Enhance **road safety** during adverse weather through alerts and infrastructure.
+- Allocate resources to high-risk zones identified through **geospatial data**.
 
 ---
 

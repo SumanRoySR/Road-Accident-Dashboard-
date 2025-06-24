@@ -1,4 +1,4 @@
-**ROAD ACCIDENT DASHBOARD INSIGHTS - POWER BI**
+# 🚧 ROAD ACCIDENT ANALYSIS DASHBOARD
 
 ![Data Model](https://github.com/SumanRoySR/Road-Accident-Dashboard-/blob/main/Dashboard.png)
 

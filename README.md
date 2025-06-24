@@ -1,5 +1,7 @@
 **ROAD ACCIDENT DASHBOARD INSIGHTS - POWER BI**
 
+![Data Model](https://github.com/SumanRoySR/Road-Accident-Dashboard-/blob/main/Dashboard.png)
+
 - This Power BI dashboard provides actionable insights into **Road Accidents** from **2021-2022**, with a focus on **year-over-year casualty trends, weather conditions, road types, and the geographic distribution of incidents**.
 - This dashboard supports data-driven decision-making for stakeholders in **transport planning, public safety, and policy-making** by helping them identify high-risk areas, optimize resource allocation, and implement effective strategies to improve road safety and reduce accident rates.
 
